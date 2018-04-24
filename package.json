@@ -1,0 +1,20 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "tuto labo-web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanderas/docker-nodejs.git"
+  },
+  "author": "jcastelain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanderas/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/karanderas/docker-nodejs#readme"
+}
